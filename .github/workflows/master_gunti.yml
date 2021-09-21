@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'gunti'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0AD4461AD7654AF4A57E03A110AC02BD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_169BC8903D1E4439BB879FD7755B0D79 }}
           package: '*.jar'
